@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dogtores",
+    "slug": "dogtores",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
